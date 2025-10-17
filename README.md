@@ -1,2 +1,2 @@
-# High-Accuracy-Oil-Volume-Forecasting-using-Polynomial-Regression.
+# High Accuracy Oil Volume Forecasting using Polynomial Regression
 Developed a supervised Machine Learning model to accurately forecast Borehole Oil Volume using historical time-series data, leading to enhanced production planning. The project involved intensive data cleaning, scaling (MinMaxScaler), and comparison of multiple regression algorithms, including Linear, Polynomial (4th Degree), and CNN. The final model, a Polynomial Regression, demonstrated exceptional performance, achieving a high $\text{R}^2$ score of 0.935, validating the solution's reliability. Executed the entire pipeline using Python and key libraries like Pandas, Scikit-learn, and NumPy.
