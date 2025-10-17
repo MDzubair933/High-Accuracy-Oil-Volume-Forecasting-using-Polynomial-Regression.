@@ -1,0 +1,2 @@
+# High-Accuracy-Oil-Volume-Forecasting-using-Polynomial-Regression.
+Developed a Machine Learning model using Python/Scikit-learn to accurately forecast Borehole Oil Volume from production data. Applied data scaling (MinMaxScaler) and tested various algorithms. The final Polynomial Regression model achieved a superior R  2   score of 0.935, validating a reliable solution for oil production planning.
